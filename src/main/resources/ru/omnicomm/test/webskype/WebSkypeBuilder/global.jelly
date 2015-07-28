@@ -22,5 +22,8 @@
     <f:entry title="New line symbol" field="newLine">
         <f:textbox default="\\n" />
     </f:entry>
+    <f:entry title="Admin login for bot management" field="adminLogin">
+        <f:textbox />
+    </f:entry>
   </f:section>
 </j:jelly>
